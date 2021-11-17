@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav_main {
+  list-style-type: none;
+  background-color: rgb(72, 72, 72, 0.8);
+  padding: 10px;
+}
+
+.nav_main ul {
+  text-align: center;
+}
+
+.nav_main ul li {
+  display: inline-block;
+  background-color: #d4cecd;
+  padding: 5px;
+}
+
+.nav_main ul li a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: black;
+}
+
+.nav_main li:hover {
+  background-color: #a3807a;
+  text-decoration: underline;
+}
