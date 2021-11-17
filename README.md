@@ -47,10 +47,15 @@ Themen:
         - posizioniere 2 divs nebeneinander
         - positioniere das 3. div mittig unter den oberen beiden
         - positioniere das letzte div class="parent" und gib ihn eine Breite von 80%
-        - füge 2 divs in das parent div ein
+        - füge 2 divs in das parent div ein mit 100x100px größe und einer weißen Hintergrundfarbe
+        - positioniere beide divs innerhalb des parent divs mittig in der höhe und mit einem seitenabstand (egal welcher)
         - erstelle eine Trennlinie unterhalb der beiden divs
         
 
     5. Pusch dein Projekt auf Github und kopiere anschließend deinen terminal und füge diese Kopie
        in das div unter der Trennlinie im body ein
        - erstelle ein leeres div und gib diesem einen padding und einen Abstand nach oben
+
+    ## Beispiel
+
+    ![Beispielbild](images/beispiel.jpg)
